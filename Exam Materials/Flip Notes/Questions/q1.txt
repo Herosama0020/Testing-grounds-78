@@ -1,0 +1,2 @@
+Question: What's a mainframe computer?
+Answer: A large, powerful computer that handles complex tasks quickly and supports many users simultaneously.
