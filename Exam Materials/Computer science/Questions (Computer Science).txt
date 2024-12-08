@@ -1,0 +1,55 @@
+What's a pixel?
+
+What's resolution?
+
+What is Binary?
+
+How is the binary system different from the decimal system?
+
+How do you convert the decimal number (input) to binary?
+
+Convert the binary number (input) to decimal.
+
+What is the binary representation of the decimal number (input)?
+
+How do you add the binary numbers (input) and (input)?
+
+Subtract the binary number (input) from (input).
+
+Perform binary multiplication on (input) and (input).
+
+Why is binary important in digital electronics and computing?
+
+How is binary used in computer programming?
+
+What is a bit, and how does it relate to a byte?
+
+How does binary encoding work for text and data in computers?
+
+What does JPEG stand for and what's its extension?
+
+What are used to make the files as small as possible, what and how many types are there and how do they operate?
+
+What are the factors determine the size of a digital audio file?
+VVV
+What are the benefits of using compression method?
+
+Calculate this file size:
+	Bit depth: (input)
+	Duration: (input)s/m/h
+	Number of channels: (input)
+	Sample rate per second: (input)
+
+Why must Lossless compression be used for text?
+
+What is RLE and what is it used for?
+
+What's the repeating string called and it's represented by what?
+
+What are the bases of binary, denary and hexadecimal?
+
+What's a "nibble"?
+
+What are KB, MB, GB, TB, ... in decimal and binary prefix with their Unit, Magnitude and Size?
+
+What are the factors of the size of audio files, pictures or images and text files?

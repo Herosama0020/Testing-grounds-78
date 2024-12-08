@@ -1,0 +1,47 @@
+What's a pixel?
+A pixel (short for "Picture Element") is the smallest unit of color in a digital image.
+
+What's resolution?
+Resolution is the number of pixels per inch (PPI) on a monitor or paper.
+
+What is Binary?
+Binary is a number system (known as the base-2 numeral system) that uses only two digits, 0 and 1.
+
+How is the binary system different from the decimal system?
+The binary system uses base-2 with digits 0 and 1, while the decimal system uses base-10 with digits 0 to 9.
+
+How do you convert the decimal number 25 to binary?
+You can convert 25 to binary by using Division-by-Two method. Divide 25 by 2, which gives a quotient of 12 and a remainder of 1. Next divide the quotient 12 by 2, resulting in a quotient of 6 and a remainder of 0. Continue dividing the quotient by 2 until you reaches 0, noting the remainders each time: 6 ÷ 2 = 3 (remainder 0), 3 ÷ 2 = 1 (remainder 1), and 1 ÷ 2 = 0 (remainder 1). Finally, read the remainders from bottom to top, which gives you 11001. Therefore, the decimal number 25 is represented as 11001 in binary.
+
+Convert the binary number 101010 to decimal.
+
+What is the binary representation of the decimal number 100?
+
+How do you add the binary numbers 1011 and 1101?
+
+Subtract the binary number 101 from 1101.
+
+Perform binary multiplication on 101 and 11.
+
+Why is binary important in digital electronics and computing?
+Binary is crucial in digital electronics and computing due to its simplicity and reliability. It uses only two states, 0 and 1, which align with the on-off states of transistors, minimizing errors and ensuring accurate data processing. Binary allows for efficient data representation, faster computations, and standardization across technologies, making it the foundation of all digital systems.
+
+How is binary used in computer programming?
+Binary is used in computer programming as the fundamental language. Machine code and data are binary, logical operations are performed on binary numbers, memory locations use binary addresses, and file formats are structured in binary. This makes binary essential for all computer functions.
+
+What is a bit, and how does it relate to a byte?
+A bit (short for binary digit) is the smallest unit of data in computing, representing a single binary value (0 or 1). A byte consists of 8 bits and is the standard unit for measuring data size and storage in digital systems. Multiple bits combine into bytes to represent more complex data.
+
+How does binary encoding work for text and data in computers?
+Binary encoding works by representing text and data using binary numbers (combinations of 0s and 1s). Each character or piece of data is assigned a unique binary code.
+
+What does JPEG stand for and what's it's extension?
+JPEG stands for Joint Photographic Experts Group, which is the name of the committee that created the standard. Its file extension is .jpg or .jpeg. JPEG is widely used for compressing digital images, making it ideal for storing and sharing photos.
+
+What are used to make the files as small as possible, what and how many types are there and how do they operate?
+Compression algorithms are used to make files as small as possible. There are two types: lossless and lossy compression. Lossless compression compresses a file in such a way that it can be decompressed without any loss of data. Examples include ZIP files and FLAC audio. Lossy compression, on the other hand, reduces file size by removing some data, which means the original file can't be fully restored when decompressed. Examples include JPEG images and MP3 audio. Lossy compression algorithms often remove data that is less noticeable to human perception, such as frequencies in audio that are less audible to the human ear, balancing file size and quality. Both methods help manage storage space and bandwidth efficiently.
+
+What are the factors determine the size of a digital audio file?
+There are several factors the determine the size of a digital audio file, including the sample rate per second, the bit depth, the duration of the recording, bit rate e.g. kilobits per second (kbps), The compression method used (lossy or lossless) and the number of audio channels: mono (one channel) and stereo (two channels).
+
+
